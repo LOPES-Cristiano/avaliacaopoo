@@ -84,7 +84,7 @@ A classe `Gerenciador` é responsável pela gestão dos animais, oferecendo mét
 
 ### Classe `Animal`
 
-Embora não tenha sido fornecido seu código, a classe `Animal` possui métodos básicos, como:
+A classe `Animal` possui métodos básicos, como:
 - `setCodigo(int codigo)`: Define o código do animal.
 - `getCodigo()`: Retorna o código do animal.
 - `setPeso(double peso)`: Define o peso do animal.
